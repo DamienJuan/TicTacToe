@@ -1,3 +1,3 @@
 # TicTacToe
 
-Game from the ract doc.
+Game from the react doc.
